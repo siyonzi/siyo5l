@@ -1,1 +1,1 @@
-print("api durduruldu by siyozi
+print("api durduruldu by siyonzi)
