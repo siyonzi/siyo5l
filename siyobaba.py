@@ -1,1 +1,1 @@
-print(api durduruldu by @siyonzi💀)
+print(api durduruldu by @siyonzi)
